@@ -1,0 +1,11 @@
+{
+  "name": "workflow-controller",
+  "version": "1.0.0",
+  "description": "controller for managing workflows in microservices architecture",
+  "main": "./src/index.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "MonMon201",
+  "license": "ISC"
+}

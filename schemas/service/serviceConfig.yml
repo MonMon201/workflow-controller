@@ -1,0 +1,5 @@
+config:
+  description: "Params for instance running"
+  AMQP:
+    queue:
+    exchange:

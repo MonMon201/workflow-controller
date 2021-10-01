@@ -1,0 +1,10 @@
+produces:
+  description: "Schema for exchange connection"
+  schema:
+    exchanges:
+      - exchange:
+        #TODO: Проверить, есть ли поля авторизации
+        mode: "string"
+        name: "string"
+        binding:
+          - "string"

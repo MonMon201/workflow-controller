@@ -1,0 +1,11 @@
+consumes:
+  description: "Schema for queue connection"
+  schema:
+    queues:
+      - queue:
+        #TODO: Проверить, есть ли поля авторизации
+        mode: "string"
+        name: "string"
+        binding:
+          - "string"
+ 
