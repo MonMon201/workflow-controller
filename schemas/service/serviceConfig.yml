@@ -2,4 +2,6 @@ config:
   description: "Params for instance running"
   AMQP:
     queue:
+      url: "https://raw.githubusercontent.com/MonMon201/workflow-controller/master/schemas/service/consumes.yml"
     exchange:
+      url: "https://raw.githubusercontent.com/MonMon201/workflow-controller/master/schemas/service/consumes.yml"
